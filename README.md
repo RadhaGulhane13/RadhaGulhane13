@@ -14,7 +14,6 @@
 
 Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a cloud storage intern in July 2020, and subsequently, in July 2021, I got promoted as an engineer in Cloud Systems.\
 🔭 At present, I am working on an exciting project, [CORTX](https://github.com/Seagate/cortx), which is the first open-source distributed object storage.
-Find my work at Seagate and contribution to the CORTX community at [Github profile](https://github.com/RadhaGulhane13).
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
 <img alt="Coding Girl" src="./assets/Coding%20Girl_2.jpg" width = "300" height = "200" align="right"/>
