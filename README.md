@@ -8,7 +8,7 @@
 🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence, Distributed Systems and Cloud Computing.\
 🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time.\
 👯 &nbsp;I’m looking to collaborate on open-source projects.\
-📫 &nbsp;You can shoot me an email at radhagulhane789@gmail.com! I regularly check mails.
+📫 &nbsp;You can shoot me an email at radhagulhane1300@gmail.com! I regularly check mails.
 
 ### 🙌 Professional experiences
 
