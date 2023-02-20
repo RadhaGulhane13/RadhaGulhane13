@@ -8,13 +8,20 @@
 🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence, Distributed Systems and Parallel Computing.\
 🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time.\
 👯 &nbsp;I’m looking to collaborate on open-source projects.\
-📫 &nbsp;You can shoot me an email at radhagulhane1300@gmail.com! I regularly check mails.
+📫 &nbsp;You can shoot me an email at radhagulhane1300@gmail.com! I regularly check mails.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1IlGEa7LvCQklCK8QbQknq4J_itd3s1Ij/view?usp=sharing) for more details. I'm open to feedback and suggestions!
 
 ### 🙌 Professional experiences
 
 Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a cloud storage intern in July 2020, and subsequently, in July 2021, I got promoted as an engineer in Cloud Systems.\
-🔭 At Seagate, I worked on first open-source distributed object storage, [CORTX](https://github.com/Seagate/cortx). My work primarily focused on research and implementation of object storage used by CORTX in order to enhance performance.
+At Seagate, I worked on first open-source distributed object storage, [CORTX](https://github.com/Seagate/cortx). My work primarily focused on research and implementation of object storage used by CORTX in order to enhance performance.
 
+### 🔭Current focus
+
+At OSU, I am enhancing my knowledge in the fields of High-Performance Computing, Distributed Systems, and Artificial Intelligence. I am currently working on a research project on Distributed Deep Learning at the High-Performance Computing lab (NOWLAB) in OSU.
+
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
+<!-- <img alt="Coding Girl" src="./assets/Coding%20Girl_2.jpg" width = "300" height = "200" align="right"/> -->
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -46,8 +53,6 @@ Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a cl
   <img height="200em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RadhaGulhane13&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align='top'/>
 </a>
 </p>
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
-<!-- <img alt="Coding Girl" src="./assets/Coding%20Girl_2.jpg" width = "300" height = "200" align="right"/> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
