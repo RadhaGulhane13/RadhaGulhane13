@@ -6,7 +6,7 @@
 💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
 🎓 &nbsp;I am a graduate student at Ohio State University with Computer Science & Engineering major, and I have also completed a bachelor's in Computer Engineering. \
 🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence, Distributed Systems and Parallel Computing.\
-🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time. [Step into my artistic 🎨 world](https://radhagulhane.netlify.app/art)\
+🎨 &nbsp;Portrait sketching and traveling have been my enduring habits. [Step into my artistic 🎨 world.](https://radhagulhane.netlify.app/art)\
 👯 &nbsp;I’m looking to collaborate on open-source projects.\
 📫 &nbsp;You can shoot me an email at radhagulhane1300@gmail.com! I regularly check mails.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LK8UFi-L-_9582cDgBrh4EbPp-OeLYdT/view?usp=sharing) for more details. I'm open to feedback and suggestions!
