@@ -6,10 +6,10 @@
 💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
 🎓 &nbsp;I am a graduate student at Ohio State University with Computer Science & Engineering major, and I have also completed a bachelor's in Computer Engineering. \
 🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence, Distributed Systems and Parallel Computing.\
-🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time.\
+🎨 &nbsp;Portrait sketching and traveling have been my hobbies that I pursued for a long time. [Step into my artistic 🎨 world](https://radhagulhane.netlify.app/art)\
 👯 &nbsp;I’m looking to collaborate on open-source projects.\
 📫 &nbsp;You can shoot me an email at radhagulhane1300@gmail.com! I regularly check mails.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1IlGEa7LvCQklCK8QbQknq4J_itd3s1Ij/view?usp=sharing) for more details. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LK8UFi-L-_9582cDgBrh4EbPp-OeLYdT/view?usp=sharing) for more details. I'm open to feedback and suggestions!
 
 ### 🙌 Professional experiences
 
@@ -18,7 +18,7 @@ At Seagate, I worked on first open-source distributed object storage, [CORTX](ht
 
 ### 🔭Current focus
 
-At OSU, I am enhancing my knowledge in the fields of High-Performance Computing, Distributed Systems, and Artificial Intelligence. I am currently working on a research project on Distributed Deep Learning at the High-Performance Computing lab (NOWLAB) in OSU.
+At OSU, I am enhancing my knowledge in the fields of High-Performance Computing, Distributed Systems, and Artificial Intelligence. I am currently working on a research project on Distributed Deep Learning at the High-Performance Computing lab [NOWLAB](https://nowlab.cse.ohio-state.edu/) in OSU.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
 <!-- <img alt="Coding Girl" src="./assets/Coding%20Girl_2.jpg" width = "300" height = "200" align="right"/> -->
