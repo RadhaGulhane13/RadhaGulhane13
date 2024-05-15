@@ -1,7 +1,7 @@
 <!-- ## <h2> 👋Hi there! I'm Radha Gulhane</h2> -->
 <h1><img alt="handwavegif" src="./assets/Hand%20Wave.gif" width='40' align="left"/> Hello There! I'm Radha Gulhane</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
 🎓 &nbsp;I am a graduate student at Ohio State University with Computer Science & Engineering major, and I have also completed a bachelor's in Computer Engineering. \
