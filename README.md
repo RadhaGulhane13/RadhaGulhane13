@@ -1,7 +1,7 @@
 <!-- ## <h2> 👋Hi there! I'm Radha Gulhane</h2> -->
 <h1><img alt="handwavegif" src="./assets/Hand%20Wave.gif" width='40' align="left"/> Hello There! I'm Radha Gulhane</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
 🎓 &nbsp;I am a graduate student at Ohio State University with Computer Science & Engineering major, and I have also completed a bachelor's in Computer Engineering. \
@@ -16,7 +16,7 @@
 Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a cloud storage intern in July 2020, and subsequently, in July 2021, I got promoted as an engineer in Cloud Systems.\
 At Seagate, I worked on first open-source distributed object storage, [CORTX](https://github.com/Seagate/cortx). My work primarily focused on research and implementation of object storage used by CORTX in order to enhance performance.
 
-### 🔭Current focus
+### 🔭 Current focus
 
 At OSU, I am enhancing my knowledge in the fields of High-Performance Computing, Distributed Systems, and Artificial Intelligence. I am currently working on a research project on Distributed Deep Learning at the High-Performance Computing lab [NOWLAB](https://nowlab.cse.ohio-state.edu/) in OSU.
 
@@ -44,7 +44,7 @@ At OSU, I am enhancing my knowledge in the fields of High-Performance Computing,
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="21"/> &nbsp;Leetcode and GitHub Stats
+### <img src="https://github.com/RadhaGulhane13/Portfolio/blob/main/src/images/ninja.png" height="30"/> &nbsp;Leetcode and GitHub Stats
 <p>
 <p> I ❤️ coding. </p>
 <a href="https://leetcode.com/Radha_Gulhane/">
