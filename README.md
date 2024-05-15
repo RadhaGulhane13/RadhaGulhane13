@@ -44,7 +44,7 @@ At OSU, I am enhancing my knowledge in the fields of High-Performance Computing,
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="21"/> &nbsp;Leetcode and GitHub Stats
+### <img src="https://github.com/RadhaGulhane13/Portfolio/blob/main/src/images/ninja.png" height="21"/> &nbsp;Leetcode and GitHub Stats
 <p>
 <p> I ❤️ coding. </p>
 <a href="https://leetcode.com/Radha_Gulhane/">
