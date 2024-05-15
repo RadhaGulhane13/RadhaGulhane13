@@ -16,7 +16,7 @@
 Initially, I joined [Seagate Technology](https://www.seagate.com/in/en/) as a cloud storage intern in July 2020, and subsequently, in July 2021, I got promoted as an engineer in Cloud Systems.\
 At Seagate, I worked on first open-source distributed object storage, [CORTX](https://github.com/Seagate/cortx). My work primarily focused on research and implementation of object storage used by CORTX in order to enhance performance.
 
-### 🔭Current focus
+### 🔭 Current focus
 
 At OSU, I am enhancing my knowledge in the fields of High-Performance Computing, Distributed Systems, and Artificial Intelligence. I am currently working on a research project on Distributed Deep Learning at the High-Performance Computing lab [NOWLAB](https://nowlab.cse.ohio-state.edu/) in OSU.
 
@@ -44,7 +44,7 @@ At OSU, I am enhancing my knowledge in the fields of High-Performance Computing,
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### <img src="https://github.com/RadhaGulhane13/Portfolio/blob/main/src/images/ninja.png" height="21"/> &nbsp;Leetcode and GitHub Stats
+### <img src="https://github.com/RadhaGulhane13/Portfolio/blob/main/src/images/ninja.png" height="25"/> &nbsp;Leetcode and GitHub Stats
 <p>
 <p> I ❤️ coding. </p>
 <a href="https://leetcode.com/Radha_Gulhane/">
