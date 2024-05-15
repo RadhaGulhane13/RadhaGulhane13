@@ -60,7 +60,7 @@ At OSU, I am enhancing my knowledge in the fields of High-Performance Computing,
 <p>
 <a href="http://www.linkedin.com/in/radha-gulhane"><img src="https://img.shields.io/badge/-Radha%20Gulhane%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:radhagulhane1300@gmail.com"><img src="https://img.shields.io/badge/-radhaulhane1300@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/gulhane_radha?t=ZcJ6gDDWncOTDuRixGt8fA&s=08"><img src="https://img.shields.io/badge/-@gulhane_radha-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/radha___gulhane"><img src="https://img.shields.io/badge/-@radha___gulhane-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 <!-- ![Radha's Github Profile Views](https://komarev.com/ghpvc/?username=RadhaGulhane13&color=blue)   -->
