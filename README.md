@@ -5,8 +5,8 @@
 
 💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
 🎓 &nbsp;I am a recent graduate from The Ohio State University, and I am currently working at Zoom in AI team. \
-🎯 &nbsp;Currently, my focus has crystallized towards Artificial Intelligence, Distributed Systems and Parallel Computing.\
-🎨 &nbsp;Portrait sketching and traveling have been my enduring habits. [Step into my artistic 🎨 world.](https://radhagulhane.netlify.app/art)\
+🎯 &nbsp;My focus areas includes Distributed Deep Learning, Machine Learning and High Performance Computing.\
+🎨 &nbsp;Portrait sketching and hiking have been my enduring hobbies. [Step into my artistic 🎨 world.](https://radhagulhane.netlify.app/art)\
 👯 &nbsp;I’d love to collaborate on open-source projects.\
 📫 &nbsp;You can shoot me an email at radhagulhane1300@gmail.com! I regularly check mails.
 <!-- ## 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LK8UFi-L-_9582cDgBrh4EbPp-OeLYdT/view?usp=sharing) for more details. I'm open to feedback and suggestions! -->
@@ -19,10 +19,11 @@ At Seagate, I worked on first open-source distributed object storage, [CORTX](ht
  -->
 ### 🔭 Current focus
 
-I am enhancing my knowledge in the fields of High-Performance Computing, Distributed Systems, and Artificial Intelligence. Previously, I have worked on a various research projects on Distributed Deep Learning at the High-Performance Computing lab [NOWLAB](https://nowlab.cse.ohio-state.edu/) in OSU, and I'm continuing these efforts at Zoom.
+I am enhancing my knowledge in the fields of Distributed Deep Learning, Large Language Models, and High-Performance Computing. Previously, I have worked on a various research projects on Distributed Deep Learning at the High-Performance Computing lab [NOWLAB](https://nowlab.cse.ohio-state.edu/) in OSU, and I'm continuing these efforts at Zoom, contributing to optimizing Large Language Model training.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
 <!-- <img alt="Coding Girl" src="./assets/Coding%20Girl_2.jpg" width = "300" height = "200" align="right"/> -->
+<!-- 
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -50,13 +51,14 @@ I am enhancing my knowledge in the fields of High-Performance Computing, Distrib
 <p> I ❤️ coding. </p>
 <a href="https://leetcode.com/Radha_Gulhane/">
   <img height="300em" width="400em" src="https://leetcard.jacoblin.cool/Radha_Gulhane?ext=heatmap&&theme=dark"/>
-</a>
+</a> 
 <a href="https://github.com/RadhaGulhane13">
   <img height="200em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RadhaGulhane13&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align='top'/>
 </a>
 </p>
+-->
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Ways to connect
 
 <p>
 <a href="http://www.linkedin.com/in/radha-gulhane"><img src="https://img.shields.io/badge/-Radha%20Gulhane%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
