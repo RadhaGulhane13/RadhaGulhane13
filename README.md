@@ -3,8 +3,8 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;I like to explore new technologies and work on the complex problems. \
-🎓 &nbsp;I am a recent graduate from The Ohio State University, and I am currently working at Zoom in AI team. \
+💡 &nbsp;&nbsp;I find great satisfaction in working on and tackling complex problems. \
+🎓 &nbsp;I am a recent graduate from Ohio State University, and I am currently working at Zoom in AI team. \
 🎯 &nbsp;My focus areas includes Distributed Deep Learning, Machine Learning and High Performance Computing.\
 🎨 &nbsp;Portrait sketching and hiking have been my enduring hobbies. [Step into my artistic 🎨 world.](https://radhagulhane.netlify.app/art)\
 👯 &nbsp;I’d love to collaborate on open-source projects.\
@@ -19,7 +19,7 @@ At Seagate, I worked on first open-source distributed object storage, [CORTX](ht
  -->
 ### 🔭 Current focus
 
-I am enhancing my knowledge in the fields of Distributed Deep Learning, Large Language Models, and High-Performance Computing. Previously, I have worked on a various research projects on Distributed Deep Learning at the High-Performance Computing lab [NOWLAB](https://nowlab.cse.ohio-state.edu/) in OSU, and I'm continuing these efforts at Zoom, contributing to optimizing Large Language Model training.
+I am enhancing my knowledge in the fields of Distributed Deep Learning, Large Language Models, and High-Performance Computing. Previously, I have worked on a various research projects on Distributed Deep Learning at the High-Performance Computing lab [NOWLAB](https://nowlab.cse.ohio-state.edu/) in OSU, and I'm continuing these efforts at Zoom, contributing to optimizing LLM training for Zoom's [AI Companion](https://www.zoom.com/en/ai-assistant/).
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
 <!-- <img alt="Coding Girl" src="./assets/Coding%20Girl_2.jpg" width = "300" height = "200" align="right"/> -->
