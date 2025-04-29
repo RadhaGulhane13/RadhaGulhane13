@@ -6,7 +6,7 @@
 💡 &nbsp;&nbsp;I find great satisfaction in working on and tackling complex problems. \
 🎓 &nbsp;I am a recent graduate from Ohio State University, and I am currently working at Zoom in AI team. \
 🎯 &nbsp;My focus areas includes Distributed Deep Learning, Machine Learning and High Performance Computing.\
-🎨 &nbsp;Portrait sketching and hiking have been my enduring hobbies. [Step into my artistic 🎨 world.](https://radhagulhane.netlify.app/art)\
+🎨 &nbsp;Portrait sketching and hiking have been my enduring hobbies.
 👯 &nbsp;I’d love to collaborate on open-source projects.\
 📫 &nbsp;You can shoot me an email at radhagulhane1300@gmail.com! I regularly check mails.
 <!-- ## 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LK8UFi-L-_9582cDgBrh4EbPp-OeLYdT/view?usp=sharing) for more details. I'm open to feedback and suggestions! -->
